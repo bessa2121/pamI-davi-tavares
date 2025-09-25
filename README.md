@@ -3,7 +3,7 @@ Programação de Aplicativos Mobile I por Prof João Siles e Bruno Cano
 
 # Creating an Expo Project
 
-Hi! I'm Leonardo Buso de Souza and I'm going to teach you how to create an app
+Hi! I'm Davi Tavares Nascimento Bessa and I'm going to teach you how to create an app
 Welcome to my Git Hub 👋
 
 # System requirements
